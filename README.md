@@ -1,44 +1,56 @@
 # 👋 Hi there, I'm Rivka Toledano
 
-I'm a passionate and results-driven Software Developer with hands-on experience in backend development, data processing, and real-time systems. I enjoy building scalable, efficient, and maintainable code, with a strong focus on clean architecture and performance optimization.
+I'm a Full Stack Developer with hands-on experience in building intelligent web systems, focusing on both frontend and backend technologies. I’m passionate about creating clean, scalable, and high-performance code, with a strong emphasis on AI integration and real-time data systems.
 
 ---
 
 ### 💼 Professional Summary
 
-- 💻 Strong programming background in **Python**, **C#**, and **SQL**
-- 🧠 Experienced in **real-time data parsing**, **telemetry processing**, and **multithreading**
-- 🧪 Skilled in building **testable**, **modular** systems with clear separation between logic and UI
-- 🖥️ Familiar with **GUI development** using **PyQt5** for real-time data visualization
-- 🌐 Comfortable working across **databases** (SQLite, Parquet, CSV) and designing **data access layers**
-- 📊 Capable of designing monitoring tools and data dashboards for technical teams
+- 🧠 Skilled in backend and frontend development using **C#, Python, Node.js, and React**
+- 🤖 Experience with **LLMs**, **Prompt Engineering**, **RAG (Retrieval-Augmented Generation)**, and **vector search**
+- 🛠️ Built intelligent systems for **virtual agents**, including NLP and real-time communication with external systems
+- 🧪 Strong focus on clean architecture, modularity, multithreading, and performance optimization
+- 🖥️ Created real-time telemetry parsing tools and GUIs using **PyQt5**
+- 🚀 Quick learner, self-starter, and team player in fast-paced environments
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Stack
 
-| Language/Tools | Technologies/Frameworks |
-|----------------|-------------------------|
-| Python, C#, SQL | PyQt5, Scapy, Pandas, Matplotlib |
-| SQLite, Parquet, CSV | Git, Docker, Linux |
-| Multithreading, Socket Programming | Data Parsing, Logging, Benchmarking |
+**Languages:**  
+`Python` `C#` `.NET` `JavaScript` `TypeScript` `Node.js` `Java`
+
+**Web Technologies:**  
+`React` `Angular` `HTML5` `CSS3` `Bootstrap`
+
+**Databases:**  
+`PostgreSQL` `SQLite` `MySQL` `MongoDB` `SQL Server`
+
+**AI & Systems:**  
+`LLMs` `Prompt Engineering` `RAG` `Vector Search` `NLP` `Multithreading`
+
+**Tools:**  
+`Git` `GitHub` `Docker` `Postman` `AWS` `Pybind11` `PyQt5`
+
+**Operating Systems:**  
+`Linux` `Windows`
 
 ---
 
-### 🚀 What I'm currently working on
+### 📚 Background
 
-- Improving performance and efficiency of telemetry parsers for high-volume network data
-- Designing a GUI interface for live packet analysis and structured telemetry inspection
-- Enhancing logging and alerting mechanisms in data pipelines
+- 🧠 Bootcamp graduate of Kama-Tech & NextSilicon with real-world project experience
+- 👩‍💻 Developed telemetry systems with performance tuning and database integration
+- 🏆 Academic average: **100** in Software Engineering studies
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 rivki.tol.dev@gmail.com
-- 💼 https://www.linkedin.com/in/rivka-toledano/
+- GitHub: [github.com/rivkitoledano](https://github.com/rivkitoledano)
+- Email: rivki.tol.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rivka-toledano/
 
 ---
 
-Thanks for stopping by 👋
-
+Thanks for visiting! 🚀
