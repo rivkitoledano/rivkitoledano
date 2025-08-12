@@ -3,11 +3,10 @@
 I'm a Full Stack Developer with hands-on experience in building intelligent web systems, focusing on both frontend and backend technologies. I’m passionate about creating clean, scalable, and high-performance code, with a strong emphasis on AI integration and real-time data systems.
 
 ---
----
-
 ### 🚀 Check Out My Portfolio
 
-[Click here to visit my portfolio](https://rivkitoledano.github.io/)
+[Rivka Toledano](https://rivkitoledano.github.io/)
+---
 
 ### 💼 Professional Summary
 
