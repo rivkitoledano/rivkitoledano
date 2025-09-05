@@ -9,7 +9,7 @@ I'm a Full Stack Developer with hands-on experience in building intelligent web 
 ### 💼 Professional Summary
 
 - 🧠 Skilled in backend and frontend development using **C#, Python, Node.js, and React**
-- 🤖 Experience with **LLMs**, **Prompt Engineering**, **RAG (Retrieval-Augmented Generation)**, and **vector search**
+- 🤖 Experience with **LLMs**, **AI Agents**, **Prompt Engineering**, **RAG (Retrieval-Augmented Generation)**, and **vector search**
 - 🛠️ Built intelligent systems for **virtual agents**, including NLP and real-time communication with external systems
 - 🧪 Strong focus on clean architecture, modularity, multithreading, and performance optimization
 - 🖥️ Created real-time telemetry parsing tools and GUIs using **PyQt5**
